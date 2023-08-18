@@ -5,3 +5,4 @@ $conn=mysqli_connect("localhost", "root", "", "crud-php");
         echo "Connection Fail".mysqli_connect_error();
     }
 ?>
+ 
